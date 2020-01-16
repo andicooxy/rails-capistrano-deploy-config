@@ -40,4 +40,6 @@ $ cap install
 ```
 
 ### Conclusion
+You may also require [nginx](https://www.cyberciti.biz/faq/install-and-configure-nginx-on-ubuntu-linux-18-04-lts) for high-performance HTTP, HTTPS and reverse proxy server. It provides a simple configuration and uses low resources on the server. It is an excellent alternative to Apache server.
+
 I hope this works for you. 
