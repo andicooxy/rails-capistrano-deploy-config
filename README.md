@@ -1,0 +1,1 @@
+# rails-capistrano-deploy-config
